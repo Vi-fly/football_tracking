@@ -92,6 +92,14 @@ A comprehensive computer vision system for analyzing soccer videos with advanced
 ```bash
 /kaggle/working/output_videos/output_video.mp4
 ```
+
+## 📘 Notebook Link
+
+You can view the complete code and outputs here:
+
+🔗 [Kaggle Notebook – Football Tracker](https://www.kaggle.com/code/wejaat/football-tracker)
+
+
 ## 💻 Local Run
 ## 📋 Requirements
 
