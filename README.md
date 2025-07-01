@@ -78,6 +78,21 @@ A comprehensive computer vision system for analyzing soccer videos with advanced
    - Distance tracking
    - Performance metrics display
 
+## ✅ Running on Kaggle
+
+1. **Open the notebook** on Kaggle.
+
+2. **Attach datasets** containing:
+   - The detection model (`best.pt`)
+   - The input video
+
+3. **Run all cells in sequence.**
+
+4. The output video will be saved in:
+```bash
+/kaggle/working/output_videos/output_video.mp4
+```
+## 💻 Local Run
 ## 📋 Requirements
 
 ```bash
